@@ -14,6 +14,7 @@ spring:
       max-active: 50
       max-wait: 10000
       min-idle: 10
+      # 这个必须有，否则SQL监控没有数据
       filters: stat,wall
       web-stat-filter:
         enabled: true
