@@ -8,7 +8,7 @@ import org.springframework.stereotype.Repository;
 @SpringBootApplication
 @MapperScan(
         //指定扫描包
-        basePackages = "com.xyd.mcplat.*",
+        basePackages = "com.xyd.mcplat.dao.*",
         annotationClass = Repository.class
 )
 public class McplatApplication {

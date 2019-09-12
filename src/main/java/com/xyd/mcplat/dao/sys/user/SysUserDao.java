@@ -1,6 +1,6 @@
-package com.xyd.mcplat.sys.user.dao;
+package com.xyd.mcplat.dao.sys.user;
 
-import com.xyd.mcplat.sys.user.entity.SysUser;
+import com.xyd.mcplat.entity.sys.user.SysUser;
 import org.springframework.stereotype.Repository;
 
 /**

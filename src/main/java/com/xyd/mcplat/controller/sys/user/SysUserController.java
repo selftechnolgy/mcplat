@@ -1,6 +1,6 @@
-package com.xyd.mcplat.sys.user.controller;
+package com.xyd.mcplat.controller.sys.user;
 
-import com.xyd.mcplat.sys.user.service.SysUserService;
+import com.xyd.mcplat.service.sys.user.SysUserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

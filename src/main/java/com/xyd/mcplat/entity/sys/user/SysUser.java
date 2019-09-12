@@ -1,4 +1,4 @@
-package com.xyd.mcplat.sys.user.entity;
+package com.xyd.mcplat.entity.sys.user;
 
 import org.apache.ibatis.type.Alias;
 

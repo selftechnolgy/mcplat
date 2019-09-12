@@ -1,8 +1,8 @@
-package com.xyd.mcplat.sys.user.service.impl;
+package com.xyd.mcplat.service.sys.user.impl;
 
-import com.xyd.mcplat.sys.user.dao.SysUserDao;
-import com.xyd.mcplat.sys.user.entity.SysUser;
-import com.xyd.mcplat.sys.user.service.SysUserService;
+import com.xyd.mcplat.dao.sys.user.SysUserDao;
+import com.xyd.mcplat.entity.sys.user.SysUser;
+import com.xyd.mcplat.service.sys.user.SysUserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
